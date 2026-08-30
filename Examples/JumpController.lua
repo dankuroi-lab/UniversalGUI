@@ -4,7 +4,7 @@
 -- Versão: 1.0.0
 -- ============================================
 
-local GithubUser = "SEU-USUARIO"  -- SUBSTITUA PELO SEU USUÁRIO
+local GithubUser = "dankuroi-lab"  -- SUBSTITUA PELO SEU USUÁRIO
 
 -- Carregar biblioteca
 local UniversalGUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/" .. GithubUser .. "/UniversalGUI/main/Main.lua"))()
